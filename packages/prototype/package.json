@@ -1,9 +1,3 @@
----
-
-# 🚀 **WORKING PROTOTYPE PACKAGE**
-
-## 📁 `packages/prototype/package.json`
-```json
 {
   "name": "apex-copilot-prototype",
   "version": "1.0.0",
