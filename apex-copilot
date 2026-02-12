@@ -1,0 +1,55 @@
+apex-copilot/
+├── package.json
+├── tsconfig.base.json
+├── .gitignore
+├── README.md
+│
+├── packages/
+│   ├── prototype/
+│   │   ├── package.json
+│   │   ├── tsconfig.json
+│   │   └── src/
+│   │       ├── index.ts
+│   │       ├── api.ts
+│   │       ├── eventBus.ts
+│   │       ├── apexLink.ts
+│   │       ├── aiMechanic.ts
+│   │       ├── predictiveHealth.ts
+│   │       └── fleetBrain.ts
+│   │
+│   ├── apex-link/
+│   │   ├── package.json
+│   │   ├── tsconfig.json
+│   │   └── src/index.ts
+│   │
+│   ├── ai-mechanic/
+│   │   ├── package.json
+│   │   ├── tsconfig.json
+│   │   └── src/index.ts
+│   │
+│   ├── predictive-health/
+│   │   ├── README.md
+│   │   └── requirements.txt
+│   │
+│   ├── fleet-brain/
+│   │   ├── package.json
+│   │   ├── tsconfig.json
+│   │   └── src/index.ts
+│   │
+│   └── platform-services/
+│       ├── package.json
+│       ├── tsconfig.json
+│       └── src/index.ts
+│
+├── apps/
+│   ├── driver-app/README.md
+│   ├── fleet-dashboard/README.md
+│   ├── service-console/README.md
+│   └── oem-portal/README.md
+│
+└── docs/
+    ├── architecture/README.md
+    ├── api/README.md
+    ├── onboarding/README.md
+    ├── whitepaper/README.md
+    └── brand/README.md
