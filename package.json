@@ -1,0 +1,13 @@
+{
+  "name": "apex-copilot",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "dev:prototype": "npm --workspace packages/prototype run dev",
+    "build:prototype": "npm --workspace packages/prototype run build"
+  }
+}
